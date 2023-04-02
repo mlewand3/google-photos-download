@@ -1,6 +1,9 @@
 # Google Photos Download
 Download Google Photos
 
+[![Pylint](https://github.com/mlewand3/google-photos-download/actions/workflows/pylint.yml/badge.svg)](https://github.com/mlewand3/google-photos-download/actions/workflows/pylint.yml)
+
+
 Written with Python 3 based on [GooglePhotosArchiver](https://github.com/NicholasDawson/GooglePhotosArchiver)
 Instructions are also well documented in [GooglePhotosArchiver](https://github.com/NicholasDawson/GooglePhotosArchiver)
 
